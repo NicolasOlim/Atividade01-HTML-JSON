@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1726246394804,
+    "titulo": "Five Nights at Freddy' s",
+    "diretor": "Emma Tammi",
+    "ano": "2023-10-26",
+    "aluguel": 79.99,
+    "poster": "/uploads/1726246394802.jpg"
+  },
+  {
+    "id": 1726248074258,
+    "titulo": "Vingadores: Guerra Infinita ",
+    "diretor": "Joe Russo",
+    "ano": "2018-04-26",
+    "aluguel": 80,
+    "poster": "/uploads/1726248074256.jpg"
+  },
+  {
+    "id": 1726249474075,
+    "titulo": "A Origem",
+    "diretor": "Christopher Nolan",
+    "ano": "2010-08-06",
+    "aluguel": 65,
+    "poster": "/uploads/1726249474073.jpg"
+  },
+  {
+    "id": 1726251103092,
+    "titulo": "Interestelar",
+    "diretor": "Christopher Nolan",
+    "ano": "2014-11-06",
+    "aluguel": 75,
+    "poster": "/uploads/1726251103089.jpg"
+  },
+  {
+    "id": 1726504729450,
+    "titulo": "Parasite",
+    "diretor": "Bong Joon Ho",
+    "ano": "2019-05-30",
+    "aluguel": 50,
+    "poster": "/uploads/1726504729447.jpg"
+  },
+  {
+    "id": 1726504830397,
+    "titulo": "La La Land",
+    "diretor": "Damien Chazelle",
+    "ano": "2017-01-13",
+    "aluguel": 55,
+    "poster": "/uploads/1726504830396.jpg"
+  },
+  {
+    "id": 1726504953056,
+    "titulo": "Zootopia",
+    "diretor": "Byron Howard",
+    "ano": "2016-03-17",
+    "aluguel": 60,
+    "poster": "/uploads/1726504953055.jpg"
+  },
+  {
+    "id": 1726505052989,
+    "titulo": "Mad Max: Fury Road",
+    "diretor": "George Miller",
+    "ano": "2015-05-07",
+    "aluguel": 70,
+    "poster": "/uploads/1726505052988.jpg"
+  },
+  {
+    "id": 1726505147069,
+    "titulo": "Frozen",
+    "diretor": "Chris Buck",
+    "ano": "2014-01-03",
+    "aluguel": 80,
+    "poster": "/uploads/1726505147067.jpg"
+  },
+  {
+    "id": 1726505229565,
+    "titulo": "Os Vigadores",
+    "diretor": "Joss Whedon",
+    "ano": "2012-04-27",
+    "aluguel": 80,
+    "poster": "/uploads/1726505229564.jpg"
+  },
+  {
+    "id": 1726505320669,
+    "titulo": "O Discurso Do Rei",
+    "diretor": "Tom Hooper",
+    "ano": "2011-02-11",
+    "aluguel": 60,
+    "poster": "/uploads/1726505320668.jpg"
+  },
+  {
+    "id": 1726517797146,
+    "titulo": "Deadpool 3",
+    "diretor": "Shawn Levy",
+    "ano": "2024-07-25",
+    "aluguel": 70,
+    "poster": "/uploads/1726517797143.jpg"
+  }
+]
